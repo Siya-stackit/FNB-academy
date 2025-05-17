@@ -49,7 +49,7 @@ Welcome to the **FNB App 2025** repository! This project is focused on building 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/fnb-app-2025.git
+git clone https://github.com/Siya-stackit/FNB-academy.git
 cd fnb-app-2025
 ```
 
